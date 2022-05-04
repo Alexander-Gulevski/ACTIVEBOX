@@ -1,3 +1,2 @@
 # ACTIVEBOX
-Look at my project
-https://alexander-gulevski.github.io/ACTIVEBOX/
+Look at [ACTIVEBOX](https://alexander-gulevski.github.io/ACTIVEBOX/)
