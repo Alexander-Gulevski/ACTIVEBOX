@@ -1,3 +1,3 @@
 # ACTIVEBOX
-continuation of my projects
-https://xolod1501.github.io/ACTIVEBOX/
+Look at my project
+https://alexander-gulevski.github.io/ACTIVEBOX/
